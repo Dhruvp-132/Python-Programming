@@ -1,0 +1,11 @@
+PlayerNumber ,Width,Height,MonsterCount,WallCount,EnergyCount,Animal,Sound
+0,20,15,10,8,8,Lion,Roar
+1,10,8,4,3,4,Dog,Bark
+2,15,7,6,6,6,Frog,Croak
+3,16,8,7,7,5,Cat,Meow
+4,22,14,10,7,5,Bird,Chirp
+5,11,8,6,3,4,Mouse,Squeak
+6,12,8,4,3,4,Horse,Neigh
+7,22,13,10,8,8,Elephant,Trumpet
+8,18,7,8,3,4,Pig,Oink
+9,19,13,10,8,8,Cow,Moo
